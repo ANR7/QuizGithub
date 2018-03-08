@@ -12,3 +12,7 @@ func disBonjourCommentCaVa() {
 disBonjourCommentCaVa()
 
 
+func disBonjour(parametre1: Type, parametre2: Type, ...) {
+    // Instructions
+}
+
