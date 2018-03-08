@@ -5,7 +5,8 @@ if age >= 18 {
     // Exécutez ici tout ce que vous voulez pour une personne majeure !
 
 
-if age < 18 {
+
+ } else {
     print("Vous êtes mineur.")
 }
 
