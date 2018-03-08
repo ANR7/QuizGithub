@@ -8,4 +8,11 @@ if age >= 18 {
     print("Vous êtes majeur, mais pas aux Etat-Unis. :(")
 }
 
+let age: Int = 32
+let nationalite: String = "USA"
+
+if age >= 21 && nationalite == "USA" {
+    print("Vous êtes Américain et en plus vous êtes majeur.")
+}
+
 
