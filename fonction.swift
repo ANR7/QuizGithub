@@ -16,3 +16,12 @@ func disBonjour(parametre1: Type, parametre2: Type, ...) {
     // Instructions
 }
 
+
+
+func disBonjour(a prenom: String, et prenom2: String) {
+    print("Bonjour " + prenom + " et " + prenom2 + "!")
+}
+
+disBonjour(a: "Rudy", et: "Théo")
+
+
