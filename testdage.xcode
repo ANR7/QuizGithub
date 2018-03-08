@@ -1,13 +1,11 @@
-let age = 12
+let age: Int = 32
+
+if age >= 21 {
+    print("Vous êtes majeur, et même aux Etat-Unis !")
+}
 
 if age >= 18 {
-    print("Vous êtes majeur !")
-    // Exécutez ici tout ce que vous voulez pour une personne majeure !
-
-
-
- } else {
-    print("Vous êtes mineur.")
+    print("Vous êtes majeur, mais pas aux Etat-Unis. :(")
 }
 
 
