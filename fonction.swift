@@ -25,3 +25,8 @@ func disBonjour(a prenom: String, et prenom2: String) {
 disBonjour(a: "Rudy", et: "Théo")
 
 
+func nomDeLaFonction(parametre1: Type, parametre2: Type, ...) -> TypeRetour {
+    // Instructions
+    
+    return laValeurARetourner
+}
