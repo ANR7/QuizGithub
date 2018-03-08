@@ -15,4 +15,6 @@ if age >= 21 && nationalite == "USA" {
     print("Vous êtes Américain et en plus vous êtes majeur.")
 }
 
+if Else
+Print("Vous êtes un arnaqueur lol")
 
